@@ -51,6 +51,14 @@ soundness-cli generate-key --name my-key
 </code>
 </pre>
 
+Keyinizi görmek ve kayıt etmek için aşağıdaki kodu da kullanabilirsiniz.
+<pre>
+<code>
+soundness-cli export-key --name my-key
+</code>
+</pre>
+
+
 Discord'a girin: https://discord.gg/A66AQ6FQ
 
 Soundless Discord sunucusunda #Testnet-access kanalına girin ve Pub-Key'inizi gönderin. Keyi gönderirken yazacağınız komut "!access keyiniz" şeklinde olsun tırnak işaretlerini kaldırın. :)
