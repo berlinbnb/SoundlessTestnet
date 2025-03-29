@@ -2,6 +2,9 @@
 Siteye girip epostanızı bırakmayı unutmayın!
 https://soundness.xyz/
 
+Daha sonra aşağıdaki yazdıklarım dilerseniz videolu izlemek için : xxxx
+
+
 https://github.com/codespaces
 
 <pre>
