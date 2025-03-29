@@ -1,4 +1,6 @@
 # SoundlessTestnet
+Siteye girip epostanızı bırakmayı unutmayın!
+https://soundness.xyz/
 
 https://github.com/codespaces
 
