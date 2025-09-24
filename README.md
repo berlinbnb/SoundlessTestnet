@@ -1,6 +1,6 @@
 # Soundness Labs #Early Access
 
-Siteye girip epostanızı bırakmayı unutmayın!!
+Siteye girip epostanızı bırakmayı unutmayın!!!
 https://soundness.xyz/
 
 Daha sonra aşağıdaki yazdıklarım dilerseniz videolu izlemek için : xxxx
